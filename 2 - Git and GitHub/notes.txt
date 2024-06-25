@@ -27,6 +27,9 @@ git branch -a
 # Create a new branch
 git branch [branch-name]
 
+git restore --staged = undo
+git push -u origin main = upload
+
  
 
 # Switch into a different branch
